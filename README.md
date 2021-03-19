@@ -17,4 +17,4 @@ It must contain:
 
 ## Actions
 
-* `slacklite.chat.postMessag` - Sends a message to a channel.
+* `slacklite.chat.postMessag` - Sends a message to a slack channel.

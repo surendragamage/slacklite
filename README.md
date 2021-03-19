@@ -1,4 +1,4 @@
-# StackStorm Slacklite Pack
+# StackStorm Slack Lite Pack
 
 Send a text message to the given Slack Channel.
 

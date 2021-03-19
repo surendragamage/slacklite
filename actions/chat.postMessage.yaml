@@ -1,0 +1,22 @@
+description: "Sends a message to a channel."
+enabled: true
+entry_point: chat.postMessage.py
+name: chat.postMessage
+parameters:
+  end_point:
+    default: chat.postMessage
+    immutable: true
+    type: string
+  channel:
+    required: true
+    description: "Channel name"
+    type: string
+  http_method:
+    default: POST
+    required: true
+    type: string
+  text:
+    required: false
+    description: "Message to send"
+    type: string
+runner_type: python-script

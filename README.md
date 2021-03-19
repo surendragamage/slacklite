@@ -1,0 +1,2 @@
+# slacklite
+StackStorm Slacklite

@@ -4,8 +4,8 @@ Send a text message to the given Slack Channel.
 
 ## Configuration
 
-Copy the example configuration in [slacklite.yaml.sample]
-to `/opt/stackstorm/configs/slacklite.yaml.sample` and edit as required.
+Copy the example configuration in [slacklite1.yaml.sample]
+to `/opt/stackstorm/configs/slacklite1.yaml.sample` and edit as required.
 
 It must contain:
 
